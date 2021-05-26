@@ -1,0 +1,9 @@
+title: Local Cycling Resources in CityCity
+description: Listing all the useful cycling resources in CityCity
+# Every type of data we list should have an entry here
+types:
+# This defines the shops data
+# Every type should have an unique identifier
+- id: shops
+# For every type, we need to know in which directory we can find the data
+  directory: shops
